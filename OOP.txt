@@ -1,0 +1,18 @@
+OOP- Some key_terms
+
+
+Algorithm,
+Progam and programming language,
+Assembler,Compiler ans Interpreter
+one bit of information=0 or 1
+
+
+Assembler: 
+  convert assembly level language(SUB,ADD,EQ etc) to machine level language i.e. binary language(0,1)
+
+Interpreter:
+ convert any language(C,C++,Python) line by line to machine language
+
+Compiler:
+  convert one whole program to machine language
+
